@@ -135,7 +135,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Sewase Angel, and I love bringing ideas to life on the web. My
+              Hello! My name is Sewase Angel, and I love bringing ideas to life. My
               journey into software development began when I joined Rwanda Coding Academy and
               learned how small tweaks in code could create exciting changes — a process that
               sparked my passion for building functional and visually appealing digital experiences.
