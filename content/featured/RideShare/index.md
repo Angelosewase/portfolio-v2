@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Ride share'
 cover: './image1.png'
 github: 'https://github.com/Angelosewase/ride-share'
 external: ''
