@@ -1,15 +1,19 @@
 ---
-date: '2020-03-27'
-title: 'web scrapper'
+date: '2023-11-15'
+title: 'Advanced Web Scraper'
 github: 'https://github.com/Angelosewase/java-web-scrapper'
 external: ''
 tech:
-  - java
-  - mysql
-  - gradle
-  - apache
-company: 'mine'
+  - Java 17
+  - Jsoup
+  - Selenium WebDriver
+  - MySQL
+  - Spring Boot
+  - Gradle
+  - Apache Commons
+  - Docker
+company: 'Personal Project'
 showInProjects: true
 ---
 
-A shop ecommerce app allows users to browse, purchase, and manage products, offering a seamless shopping experience with secure payment options.
+A robust, multi-threaded web scraping solution built with Java, designed to efficiently extract, process, and store data from various websites. This project demonstrates advanced web scraping techniques while respecting robots.txt and implementing rate limiting to ensure ethical data collection.

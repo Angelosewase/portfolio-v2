@@ -1,9 +1,9 @@
 ---
 date: '0'
 title: 'Gura'
-cover: './image.png'
+cover: './image1.png'
 github: 'https://github.com/Angelosewase/Gura'
-external: 'https://gura-kappa.vercel.app/'
+external: ''
 tech:
   - React
   - tailwindcss

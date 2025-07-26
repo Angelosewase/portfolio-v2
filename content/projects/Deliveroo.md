@@ -10,7 +10,7 @@ tech:
   - typescript
 
 company: 'deliveroo'
-showInProjects: true
+showInProjects: false
 ---
 
 Deliveroo clone was developed to simulate a food delivery platform, providing hands-on experience in building dynamic user interfaces, API integrations, and managing complex workflows.

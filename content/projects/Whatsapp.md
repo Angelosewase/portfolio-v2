@@ -5,12 +5,12 @@ github: 'https://github.com/Angelosewase/whatsappClone'
 external: ''
 tech:
   - react native(expo)
-  - clerk 
-  - jest 
+  - clerk
+  - jest
   - typescript
- 
+
 company: 'whatsapp'
-showInProjects: true
+showInProjects: false
 ---
 
 WhatsApp clone is a personal project that replicates core messaging features, enhancing skills in real-time communication and app functionality

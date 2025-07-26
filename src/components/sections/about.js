@@ -125,7 +125,16 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Nestjs', 'Node.js', 'Next js', 'react native', '...many more'];
+  const skills = [
+    'JavaScript (ES6+)',
+    'TypeScript',
+    'React',
+    'Nestjs',
+    'Node.js',
+    'Next js',
+    'react native',
+    '...many more',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,16 +144,16 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Sewase Angel, and I love bringing ideas to life. My
-              journey into software development began when I joined Rwanda Coding Academy and
-              learned how small tweaks in code could create exciting changes — a process that
-              sparked my passion for building functional and visually appealing digital experiences.
+              Hello! My name is Sewase Angel, and I love bringing ideas to life. My journey into
+              software development began when I joined Rwanda Coding Academy and learned how small
+              tweaks in code could create exciting changes — a process that sparked my passion for
+              building functional and visually appealing digital experiences.
             </p>
 
             <p>
               Over time, I’ve worked on various projects, focusing on solving real-world problems
-              and delivering user-focused solutions. My goal is to build efficient web and mobile
-              applications that provide seamless user experiences.
+              and delivering user-focused solutions. My goal is to build efficient digital solutions
+              that provide seamless user experiences.
             </p>
 
             <p>
